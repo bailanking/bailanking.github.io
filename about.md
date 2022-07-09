@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Abt
-permalink: yihui-he.github.io
+permalink: bailanking.github.io
 ---
 
 404
